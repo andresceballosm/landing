@@ -1,0 +1,12 @@
+.features-tiles-item-image {
+	display: inline-flex;
+	border-radius: 50%;
+	background-color: get-color(primary, 3);
+}
+
+.features-tiles-item-avatar {
+	display: inline-flex;
+	border-radius: 50%;
+	border: solid #e3b100;
+	border-width: 1 1px;
+}
